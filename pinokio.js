@@ -2,7 +2,7 @@ const path = require('path')
 
 module.exports = {
   version: "3.7",
-  title: "Spider『X』 Full Speech Model-1.0",
+  title: "Spider『X』 Speech to Translated Speech Model - 1.0",
   description: "ASR → MT → TTS",
   icon: "icon.png",
   menu: async (kernel, info) => {
@@ -99,3 +99,4 @@ module.exports = {
     }
   }
 }
+
